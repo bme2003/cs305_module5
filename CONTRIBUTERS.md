@@ -1,3 +1,3 @@
 See also the list of contributers who participated in this project.
 * **Christian Butler**
-* **Ian Maximillian Nieto**
+* **Ian Maxmillian Nieto**
