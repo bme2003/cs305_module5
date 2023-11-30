@@ -13,6 +13,8 @@ GitHub either on the web or desktop.
 ```
 ## HEADER, ADDING NEW MODULE to EDIT
 
+## HEADER, ADDING NEW MODULE for EDITING
+
 ## Deployment
 
 Accsess and build your repository to allow for contributers and take screenshots throughout the process for docmentation
