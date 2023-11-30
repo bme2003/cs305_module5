@@ -1,4 +1,3 @@
-# cs305_module5
 # cs305 Module 5 Assignment
 
 Practicing Github Collaboration and Development
