@@ -26,6 +26,8 @@ Accsess and build your repository to allow for contributers and take screenshots
 * **Brody England** - *Initial work*
 
 See also the list of contributers who participated in this project.
+* **Christian Butler**
+* **Ian Nieto**
 
 ## License
 
